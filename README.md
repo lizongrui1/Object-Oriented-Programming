@@ -1,5 +1,5 @@
 # Object-Oriented-Programming
-My Understanding of Object Oriented Programming
+My understanding of Object Oriented Programming
 # OOP
 * 什么是面向对象
 
