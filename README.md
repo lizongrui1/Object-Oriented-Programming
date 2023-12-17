@@ -10,7 +10,15 @@ My understanding of Object Oriented Programming
 
 * 结构体与继承
 1. 什么是结构体
+是将多个任意类型的变量组合在一起的聚合数据类型
+可以理解为Go语言的结构体struct和其他语言的class有相等的地位，但是Go语言放弃大量面向对象的特性，所有的Go语言类型除了指针类型外，都可以有自己的方法，提高了可扩展性。在 Go 语言中没有没有 class 类的概念，只有 struct 结构体的概念，因此也没有继承。
+
 2. 定义方法
+`type 结构体名 struct {
+    属性名   属性类型
+    属性名   属性类型
+    ...
+}`
 3. 方法的参数传递方式
 4. 结构体实现“继承”
 
@@ -19,6 +27,6 @@ My understanding of Object Oriented Programming
 2. 如何定义和实现接口
 3. 接口实现多态
 
-* 结构体里的 Tag 用法
+* 接口与多态
 1. 什么是 Tag？
 2. 如何定义获取 Tag ？
