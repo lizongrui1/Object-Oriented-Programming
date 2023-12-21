@@ -1,6 +1,3 @@
-# Object-Oriented-Programming
-My understanding of Object Oriented Programming
-
 # 面向对象编程
 
 
